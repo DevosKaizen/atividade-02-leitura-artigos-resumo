@@ -2,7 +2,7 @@
 
 Prazo: 05/maio Peso: 1.0 ponto
 
-_Classroom link_ <>
+_Classroom link_: **pendente**.
 
 ## Objetivo
 
