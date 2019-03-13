@@ -2,7 +2,7 @@
 
 Prazo: 05/maio Peso: 1.0 ponto
 
-_Classroom link_: **pendente**.
+_Classroom link_: <https://classroom.github.com/a/wP35zqPN>
 
 ## Objetivo
 
