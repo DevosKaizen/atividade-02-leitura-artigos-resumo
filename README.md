@@ -1,6 +1,6 @@
 # atividade-02-leitura-artigos-resumo
 
-Prazo: 05/maio Peso: 1.0 ponto
+Prazo: 29/abril Peso: 1.0 ponto
 
 _Classroom link_: <https://classroom.github.com/a/wP35zqPN>
 
